@@ -1,0 +1,11 @@
+.user-data-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .reload-button {
+    margin-top: 10px;
+    margin-left: 250px; /* Moves the button to the right */
+  }
+  
