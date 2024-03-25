@@ -1,0 +1,9 @@
+Create an nextjs quiz app. 
+
+Functionalities:
+
+1. Quiz Creation: Allow users to create quizes by providing question prompts, multiple choice answers and specifying the correct answer.
+2. Quiz Selection: Users can choose quiz from a lot of available quizes.
+3. Quiz Taking: Implement the quiz taking interface and tracking the user progress(problem solved/total questions)
+4. Timer: Add a timer to each questions.
+5. Overall result.
